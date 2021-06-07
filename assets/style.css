@@ -67,6 +67,19 @@ main p{
     line-height: 25px;
 }
 
+main p a{
+    text-decoration: none;
+}
+main ol li{
+    line-height: 25px;
+}
+
+main ul li{
+    margin-left: 20px;
+    padding: 15px;
+    line-height: 25px;
+}
+
 footer{
     height: 100px;
     width: 100%;
